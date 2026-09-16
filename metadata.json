@@ -1,0 +1,6 @@
+{
+  "name": "LedgerLink",
+  "description": "Shared tabs and personal monthly finance dashboard with budget pacing, radar charts, projections, and savings coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

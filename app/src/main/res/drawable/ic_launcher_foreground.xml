@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rounded card base -->
+    <path
+        android:pathData="M34,26 h40 c4.4,0 8,3.6 8,8 v40 c0,4.4 -3.6,8 -8,8 h-40 c-4.4,0 -8,-3.6 -8,-8 v-40 c0,-4.4 3.6,-8 8,-8 Z"
+        android:fillColor="#1E293B" />
+    <!-- Split tabs accent top/bottom bars -->
+    <path
+        android:pathData="M34,34 h18 v6 h-18 Z"
+        android:fillColor="#3B82F6" />
+    <path
+        android:pathData="M56,34 h18 v6 h-18 Z"
+        android:fillColor="#EF4444" />
+    <!-- Indian Rupee glyph symbol in center -->
+    <path
+        android:pathData="M44,46 h20 M44,51 h16 M44,46 v26 M44,51 c5,0 9,-2 9,-5 s-4,-5 -9,-5 M49,57 l12,15"
+        android:strokeColor="#F8FAFC"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
